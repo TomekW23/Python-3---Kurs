@@ -9,3 +9,5 @@ To repozytorium zawiera pliki robocze do mojego kursu Pythona. Znajdziesz tu ró
 Wszystkie pliki robocze znajdują się w katalogu głównym repozytorium.
 
 ![Obraz kursu Python](123.webp)
+
+## Obraz stworzony przez CHAT GPT
